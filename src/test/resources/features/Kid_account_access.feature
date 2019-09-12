@@ -7,3 +7,4 @@ Feature: Kid account access
     When i log in after my parent has made an account
     Then i should see my account balance
     Then i should see your account balance
+    Then I compare them
