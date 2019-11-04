@@ -8,3 +8,4 @@ Feature: Kid account access
     Then i should see my account balance
     Then i should see your account balance
     Then I compare both
+    Then something else happens
