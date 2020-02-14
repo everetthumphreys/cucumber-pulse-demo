@@ -9,4 +9,4 @@ Feature: Kid account access
     Then i should see your account balance
     Then I compare both
     Then something else happened
-    Then I test again
+    Then I test again x2
